@@ -5,13 +5,13 @@ To run the File Storage API, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/aslitaser/filestorageapi.git
+git clone https://github.com/aslitaser/filestoragecase.git
 ```
 
 2. Change directory to the project folder:
 
 ```
-cd filestorageapi
+cd filestoragecase
 ```
 
 3. Make sure you have the required dependencies installed:
